@@ -1,0 +1,29 @@
+//css file(c1.css)
+emps {
+    color: black;
+    background-color: #bce8f1;
+    width: 50%;
+    margin-left: 30px;
+    font-size: 60px;
+}
+
+heading {
+    color: black;
+    font-size: 60px;
+    background-color: deeppink;
+    margin-left: 3px;
+}
+
+name,
+email,
+contact {
+    display: block;
+    font-size: 20px; 
+    margin-left: 30px;
+}
+
+name {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 30px;
+}
